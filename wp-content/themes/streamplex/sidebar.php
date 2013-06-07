@@ -1,0 +1,1 @@
+<div id="sidebar"><? if(function_exists('streamplex_amazon')) echo streamplex_amazon(get_theme_option('amazon'));?><?php dynamic_sidebar('general'); ?></div>

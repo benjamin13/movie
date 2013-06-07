@@ -1,0 +1,7 @@
+#logo {
+background: url(images/logo-brown.gif) no-repeat;
+}
+
+.jFlowSelected {
+background: url(images/selected-brown.gif) no-repeat right center;
+}

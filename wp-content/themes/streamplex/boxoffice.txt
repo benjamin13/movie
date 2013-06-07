@@ -1,0 +1,15 @@
+<ul><li><div class="feat-post"><a href="#" rel="bookmark" onClick="window.open('/teaser.php?t=Fast-&#x26;-Furious-6...','mywindow','scrollable=0,resizable=0,width=495,height=345')" title="Fast &#x26; Furious 6...">1. Fast &#x26; Furious 6...</a></div><div class="comment-bubble">$171M</div><div class="dot"></div></li>
+ 
+<li><div class="feat-post"><a href="#" rel="bookmark" onClick="window.open('/teaser.php?t=Now-You-See-Me','mywindow','scrollable=0,resizable=0,width=495,height=345')" title="Now You See Me">2. Now You See Me</a></div><div class="comment-bubble">$29.3M</div><div class="dot"></div></li>
+ 
+<li><div class="feat-post"><a href="#" rel="bookmark" onClick="window.open('/teaser.php?t=After-Earth','mywindow','scrollable=0,resizable=0,width=495,height=345')" title="After Earth">3. After Earth</a></div><div class="comment-bubble">$27.5M</div><div class="dot"></div></li>
+ 
+<li><div class="feat-post"><a href="#" rel="bookmark" onClick="window.open('/teaser.php?t=Star-Trek-Into-Darkne...','mywindow','scrollable=0,resizable=0,width=495,height=345')" title="Star Trek Into Darkne...">4. Star Trek Into Darkne...</a></div><div class="comment-bubble">$182M</div><div class="dot"></div></li>
+ 
+<li><div class="feat-post"><a href="#" rel="bookmark" onClick="window.open('/teaser.php?t=Epic','mywindow','scrollable=0,resizable=0,width=495,height=345')" title="Epic">5. Epic</a></div><div class="comment-bubble">$65.4M</div><div class="dot"></div></li>
+ 
+<li><div class="feat-post"><a href="#" rel="bookmark" onClick="window.open('/teaser.php?t=The-Hangover-Part-III...','mywindow','scrollable=0,resizable=0,width=495,height=345')" title="The Hangover Part III...">6. The Hangover Part III...</a></div><div class="comment-bubble">$88.5M</div><div class="dot"></div></li>
+ 
+<li><div class="feat-post"><a href="#" rel="bookmark" onClick="window.open('/teaser.php?t=Iron-Man-3','mywindow','scrollable=0,resizable=0,width=495,height=345')" title="Iron Man 3">7. Iron Man 3</a></div><div class="comment-bubble">$385M</div><div class="dot"></div></li>
+ 
+</ul>

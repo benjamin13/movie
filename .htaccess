@@ -1,0 +1,28 @@
+Header unset ETag
+FileETag None
+RewriteEngine On
+RewriteRule ^smallposter/([^_]*)_([^-]*)-(.*) /wp-content/themes/streamplex/img.php?a=$1&cropratio=2:3&width=$2&image=/wp-content/uploads/$3 [L]
+
+ExpiresActive On
+ExpiresDefault "access 360 day"
+
+AddOutputFilterByType DEFLATE text/plain
+AddOutputFilterByType DEFLATE text/html
+AddOutputFilterByType DEFLATE text/xml
+AddOutputFilterByType DEFLATE text/css
+AddOutputFilterByType DEFLATE application/xml
+AddOutputFilterByType DEFLATE application/xhtml+xml
+AddOutputFilterByType DEFLATE application/rss+xml
+AddOutputFilterByType DEFLATE application/javascript
+AddOutputFilterByType DEFLATE application/x-javascript
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
